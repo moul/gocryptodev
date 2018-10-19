@@ -1,4 +1,7 @@
 # Description
+
+[![GuardRails badge](https://badges.production.guardrails.io/moul/gocryptodev.svg)](https://www.guardrails.io)
+
 gocryptodev is a pure go (no-cgo) api for
 the cryptodev (/dev/crypto) cryptography api.
 
